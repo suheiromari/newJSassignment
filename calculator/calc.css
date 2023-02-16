@@ -1,0 +1,38 @@
+#btn0 ,  #btn3 ,#btn6 ,#btn9 , #display, #plus ,#divide  {
+    margin-left: 350px; 
+
+}
+#display{
+  margin-left: 350px; 
+  border: 2px solid black; 
+  width : 303px;
+  height : 80px;
+  font-size: large;
+  color:green;
+} 
+button{
+  width : 100px;
+  height : 40px;
+  font-size: large;
+
+}
+.digit{
+    background-color: pink;
+}
+.oparator{
+    background-color: yellow;
+} 
+#btnEqual{
+    background-color: green;
+}
+
+#btnClear{
+    background-color: green;
+}
+
+#decimal{
+    background-color: green;
+}
+#backspace{
+    background-color: blue;
+}    
